@@ -1,0 +1,28 @@
+C:\Users\FX706HCB\Desktop\Code Academy\ASP.NET\ASP.NET - intro\ASP.NET - intro\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\FX706HCB\Desktop\Code Academy\ASP.NET\ASP.NET - intro\ASP.NET - intro\bin\Debug\net6.0\appsettings.json
+C:\Users\FX706HCB\Desktop\Code Academy\ASP.NET\ASP.NET - intro\ASP.NET - intro\bin\Debug\net6.0\ASP.NET - intro.exe
+C:\Users\FX706HCB\Desktop\Code Academy\ASP.NET\ASP.NET - intro\ASP.NET - intro\bin\Debug\net6.0\ASP.NET - intro.deps.json
+C:\Users\FX706HCB\Desktop\Code Academy\ASP.NET\ASP.NET - intro\ASP.NET - intro\bin\Debug\net6.0\ASP.NET - intro.runtimeconfig.json
+C:\Users\FX706HCB\Desktop\Code Academy\ASP.NET\ASP.NET - intro\ASP.NET - intro\bin\Debug\net6.0\ASP.NET - intro.dll
+C:\Users\FX706HCB\Desktop\Code Academy\ASP.NET\ASP.NET - intro\ASP.NET - intro\bin\Debug\net6.0\ASP.NET - intro.pdb
+C:\Users\FX706HCB\Desktop\Code Academy\ASP.NET\ASP.NET - intro\ASP.NET - intro\obj\Debug\net6.0\ASP.NET - intro.csproj.AssemblyReference.cache
+C:\Users\FX706HCB\Desktop\Code Academy\ASP.NET\ASP.NET - intro\ASP.NET - intro\obj\Debug\net6.0\ASP.NET - intro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FX706HCB\Desktop\Code Academy\ASP.NET\ASP.NET - intro\ASP.NET - intro\obj\Debug\net6.0\ASP.NET - intro.AssemblyInfoInputs.cache
+C:\Users\FX706HCB\Desktop\Code Academy\ASP.NET\ASP.NET - intro\ASP.NET - intro\obj\Debug\net6.0\ASP.NET - intro.AssemblyInfo.cs
+C:\Users\FX706HCB\Desktop\Code Academy\ASP.NET\ASP.NET - intro\ASP.NET - intro\obj\Debug\net6.0\ASP.NET - intro.csproj.CoreCompileInputs.cache
+C:\Users\FX706HCB\Desktop\Code Academy\ASP.NET\ASP.NET - intro\ASP.NET - intro\obj\Debug\net6.0\ASP.NET - intro.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\FX706HCB\Desktop\Code Academy\ASP.NET\ASP.NET - intro\ASP.NET - intro\obj\Debug\net6.0\staticwebassets\msbuild.ASP.NET - intro.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\FX706HCB\Desktop\Code Academy\ASP.NET\ASP.NET - intro\ASP.NET - intro\obj\Debug\net6.0\staticwebassets\msbuild.build.ASP.NET - intro.props
+C:\Users\FX706HCB\Desktop\Code Academy\ASP.NET\ASP.NET - intro\ASP.NET - intro\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ASP.NET - intro.props
+C:\Users\FX706HCB\Desktop\Code Academy\ASP.NET\ASP.NET - intro\ASP.NET - intro\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ASP.NET - intro.props
+C:\Users\FX706HCB\Desktop\Code Academy\ASP.NET\ASP.NET - intro\ASP.NET - intro\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\FX706HCB\Desktop\Code Academy\ASP.NET\ASP.NET - intro\ASP.NET - intro\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\FX706HCB\Desktop\Code Academy\ASP.NET\ASP.NET - intro\ASP.NET - intro\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\FX706HCB\Desktop\Code Academy\ASP.NET\ASP.NET - intro\ASP.NET - intro\obj\Debug\net6.0\scopedcss\bundle\ASP.NET - intro.styles.css
+C:\Users\FX706HCB\Desktop\Code Academy\ASP.NET\ASP.NET - intro\ASP.NET - intro\obj\Debug\net6.0\ASP.NET - intro.dll
+C:\Users\FX706HCB\Desktop\Code Academy\ASP.NET\ASP.NET - intro\ASP.NET - intro\obj\Debug\net6.0\refint\ASP.NET - intro.dll
+C:\Users\FX706HCB\Desktop\Code Academy\ASP.NET\ASP.NET - intro\ASP.NET - intro\obj\Debug\net6.0\ASP.NET - intro.pdb
+C:\Users\FX706HCB\Desktop\Code Academy\ASP.NET\ASP.NET - intro\ASP.NET - intro\obj\Debug\net6.0\ASP.NET - intro.genruntimeconfig.cache
+C:\Users\FX706HCB\Desktop\Code Academy\ASP.NET\ASP.NET - intro\ASP.NET - intro\obj\Debug\net6.0\ref\ASP.NET - intro.dll
+C:\Users\FX706HCB\Desktop\Code Academy\ASP.NET\ASP.NET - intro\ASP.NET - intro\obj\Debug\net6.0\ASP.NET - intro.RazorAssemblyInfo.cache
+C:\Users\FX706HCB\Desktop\Code Academy\ASP.NET\ASP.NET - intro\ASP.NET - intro\obj\Debug\net6.0\ASP.NET - intro.RazorAssemblyInfo.cs
